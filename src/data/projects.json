@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Playroom",
+      "imageSrc": "playroom.png",
+      "description": "This is a project made to learn building responsive websites.",
+      "skills": ["HTML", "CSS"],
+      "demo": "https://mvandot.github.io/playroom/",
+      "source": "https://github.com/mvandot/playroom"
+    },
+    {
+      "title": "Swimming club",
+      "imageSrc": "swimming-club.png",
+      "description": "This is a project made to learn building responsive websites.",
+      "skills": ["HTML","CSS"],
+      "demo": "https://mvandot.github.io/swimming-club/",
+      "source": "https://github.com/mvandot/swimming-club"
+    },
+    {
+      "title": "Search Movies App",
+      "imageSrc": "search-movies.png",
+      "description": "This is a simple React APP with fetched data from an API",
+      "skills": ["React"],
+      "demo": "https://movies-mv.netlify.app/",
+      "source": "https://github.com/mvandot/movies-search-app"
+    }
+  ]

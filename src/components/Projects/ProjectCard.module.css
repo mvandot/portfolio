@@ -1,0 +1,83 @@
+@import '../../vars.css';
+
+.container {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background: linear-gradient(180deg, rgba(177, 181, 179, 0.655) 0%, rgb(186, 192, 196) 100%);
+    box-shadow: 0 16px 14px 0 rgb(48, 48, 49);
+    padding: 18px 24px;
+    max-width: 345px;
+}
+
+.image {
+    margin-bottom: 26px;
+    max-width: 300px; 
+    height: 200px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.description {
+    margin-top: 6px;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.skills {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 6px;
+    width: 100%;
+    margin-top: 14px;
+}
+
+.skill {
+    font-size: 25px;
+    font-weight: 400;
+    border-radius: 10px;
+    background:  linear-gradient(180deg, rgba(210, 213, 211, 0.655) 0%, rgb(190, 192, 193) 100%);
+    padding: 2px 22px;
+}
+
+.links {
+    width: 100%;
+    margin-top: 26px;
+    display: flex;
+    justify-content: space-around;
+}  
+ 
+.link {
+    text-decoration: none;
+    color: var(--color-text);
+    font-size: 30px;
+    font-weight: 600;
+    border-radius: 100px;
+    background: var(--color-primary);
+    padding: 1px 22px;
+}
+
+@media screen and (max-width: 830px) {
+    .skills {
+        list-style: none;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        /* gap: 6px; */
+        width: 100%;
+        /* margin-top: 14px; */
+    }
+
+    .title {
+        padding: 10px;
+    }
+
+    .description {
+        padding: 10px;
+    }
+}

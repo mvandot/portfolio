@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Account Manager",
+      "organisation": "Siphox Health",
+      "startDate": "Sept, 2023",
+      "endDate": "April, 2024",
+      "experiences": ["Managed B2B Business Line", "Increaced number of clients by 50%"],
+      "imageSrc": "siphox.png"
+    },
+    {
+      "role": "Customer Succcess Team Lead",
+      "organisation": "Outbrain",
+      "startDate": "Sept, 2020",
+      "endDate": "April, 2023",
+      "experiences": ["Managed Programmatic campaigns", "Led a team"],
+      "imageSrc": "outbrain.png"
+    },
+    {
+      "role": "CSM",
+      "organisation": "Sizmek by Amazon",
+      "startDate": "April, 2013",
+      "endDate": "Jun, 2020",
+      "experiences": [
+        "Managed Direct campaigns",
+        "Led a team"
+      ],
+      "imageSrc": "sizmek.png"
+    }
+  ]
