@@ -1,12 +1,10 @@
 ## Portfolio
 
-An application used for searching movies based on https://www.omdbapi.com/ DB of movies, built with React + Vite, JavaScript, and CSS.
+This is my portfolio website, built with React + Vite, JavaScript, and CSS.
 
 ## Project Screen Shot
 
 ![Alt text](./assets/screenshots/desktop.png?raw=true)
-
-![Alt text](./assets/screenshots/mobile.png?raw=true)
 
 ## Installation and Setup Instructions
 
