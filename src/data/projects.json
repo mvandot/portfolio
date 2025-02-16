@@ -11,7 +11,7 @@
       "title": "Swimming Club",
       "imageSrc": "swimming-club.png",
       "description": "This is a project made to learn building responsive react websites.",
-      "skills": ["React+Vite","Tailwind CSS"],
+      "skills": ["React+Vite"],
       "demo": "https://swimming-club-tivoli.netlify.app/",
       "source": "https://github.com/mvandot/swimming-club"
     },
