@@ -8,10 +8,10 @@
       "source": "https://github.com/mvandot/playroom"
     },
     {
-      "title": "Swimming club",
+      "title": "Swimming Club",
       "imageSrc": "swimming-club.png",
-      "description": "This is a project made to learn building responsive websites.",
-      "skills": ["HTML","CSS"],
+      "description": "This is a project made to learn building responsive react websites.",
+      "skills": ["React+Vite","Tailwind CSS"],
       "demo": "https://swimming-club-tivoli.netlify.app/",
       "source": "https://github.com/mvandot/swimming-club"
     },
