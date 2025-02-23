@@ -4,7 +4,7 @@
       "imageSrc": "playroom.png",
       "description": "This is a project made to learn building responsive websites.",
       "skills": ["HTML", "CSS"],
-      "demo": "https://mvandot.github.io/playroom/",
+      "demo": "https://playroom-mv.netlify.app/",
       "source": "https://github.com/mvandot/playroom"
     },
     {
